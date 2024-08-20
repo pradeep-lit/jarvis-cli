@@ -30,8 +30,6 @@ You can install the required libraries using:
 pip install -r requirements.txt
 ```
 
-*(Create a `requirements.txt` file with the dependencies listed above.)*
-
 ## Setup
 
 1. Clone the repository.
