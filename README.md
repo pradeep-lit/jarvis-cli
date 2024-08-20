@@ -9,6 +9,7 @@ Jarvis is a Python-based virtual assistant that listens for the wake word "Jarvi
 - **Web Search**: Opens the first result from a web search based on the command.
 - **Text-to-Speech**: Uses `pyttsx3` and `gTTS` to provide voice responses.
 - **GPT-3.5 Integration**: Generates AI-powered responses using OpenAI's GPT-3.5-turbo model.
+- **Open Sites Directly**: Open Sites according to the command using Google Search.
 
 ## Requirements
 
@@ -58,7 +59,3 @@ Feel free to fork this project, create a feature branch, and submit a pull reque
 ## License
 
 This project is licensed under the BSD New License.
-
----
-
-You can adjust the content as needed, especially the "Features" and "Usage" sections based on the specific functionalities you've implemented.
